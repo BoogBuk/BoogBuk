@@ -5,9 +5,15 @@
 
 # BoogBuk
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=6F4E37&center=true&vCenter=true&width=560&lines=Python+Enthusiast+%2F+Software+Tester;Building%2C+testing%2C+improving;Boog)]
-
-**Python enthusiast / Software tester**
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/DenverCoder1/readme-typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=6F4E37&center=true&vCenter=true&width=560&lines=Python+Enthusiast+%2F+Software+Tester;Building%2C+testing%2C+improving;Boog" alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=BoogBuk&style=flat-square&color=6F4E37&label=PROFILE+VIEWS)](https://github.com/BoogBuk)
 [![Followers](https://img.shields.io/github/followers/BoogBuk?style=flat-square&color=8B6F47&label=FOLLOWERS)](https://github.com/BoogBuk?tab=followers)
