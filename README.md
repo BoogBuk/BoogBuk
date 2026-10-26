@@ -5,7 +5,7 @@
 
 # BoogBuk
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=6F4E37&center=true&vCenter=true&width=560&lines=Python+Enthusiast+%2F+Software+Tester;Building%2C+testing%2C+improving;Boog)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=6F4E37&center=true&vCenter=true&width=560&lines=Python+Enthusiast+%2F+Software+Tester;Building%2C+testing%2C+improving;Boog)]
 
 **Python enthusiast / Software tester**
 
